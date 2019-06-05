@@ -11,8 +11,6 @@ awk -F',' '{print $6;}' temp2.txt > temp3.txt
 #calculates the sum
 sum=$(awk '{n += $1}; END{print n}' temp3.txt)
 
-#echo "sum is: " $sum
-
 #write html page with search results
 
 cat > test.html << HTMLHEADER
@@ -32,7 +30,7 @@ cat > test.html << HTMLHEADER
 	<header style="padding: 15px;">
 		<h1>Gaming Grants Paid to Community Organizations</h1>
 		<h2>Search: `echo $1`</h2>
-		<h2>Total: `echo $sum`</h2>
+		<h2>Total: `echo $(LC_ALL=en_US.UTF-8 printf "$%'.2f" $sum)`</h2>
 	</header>
 	<div style="padding: 10px; display: flex; flex-flow: wrap; justify-content: space-around; border-radius: 5px; background-color: cadetblue">
 HTMLHEADER
