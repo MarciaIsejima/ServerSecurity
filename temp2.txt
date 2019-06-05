@@ -1,8 +1,8 @@
-100 Mile House,100 Mile & District Minor Hockey Association,Community Gaming Grant,Sport,Sports for Youth,36400.00
-100 Mile House,100 Mile Elementary School PAC,PAC,DPAC and PAC,Parent Advisory Councils,8520.00
-100 Mile House,100 Mile House & District Figure Skating Club,Community Gaming Grant,Sport,Sports for Youth,13800.00
-100 Mile House,100 Mile House & District Women's Centre Society,Community Gaming Grant,Human and Social Services,Disadvantage Distress Poverty,18500.00
-100 Mile House,100 Mile House and District Soccer Association,Community Gaming Grant,Sport,Sports for Youth,20600.00
-100 Mile House,100 Mile House Food Bank Society,Community Gaming Grant,Human and Social Services,Disadvantage Distress Poverty,95000.00
-100 Mile House,100 Mile House Wranglers Junior B Hockey Club,Community Gaming Grant,Sport,Sports for Youth,15000.00
-108 Mile Ranch,100 Mile House & District Historical Society,Community Gaming Grant,Arts and Culture,"Fairs Festivals Museums",20000.00
+Anmore,Eagle Mountain Middle School PAC,PAC,DPAC and PAC,Parent Advisory Councils,13632.00
+Coquitlam,Eagle Ridge Elementary Parent Advisory Council,PAC,DPAC and PAC,Parent Advisory Councils,9816.00
+Port Hardy,Eagle View Elementary School PAC,PAC,DPAC and PAC,Parent Advisory Councils,6072.00
+Sicamous,Eagle River Secondary School PAC,PAC,DPAC and PAC,Parent Advisory Councils,2620.00
+Sicamous,Eagle Valley Community Support Society,Community Gaming Grant,Human and Social Services,Disadvantage Distress Poverty,44000.00
+Sicamous,Eagle Valley Transportation Society,Capital Project Grant,Human and Social Services,Community Service Organization,25000.00
+Victoria,Eagle View Elementary School PAC,PAC,DPAC and PAC,Parent Advisory Councils,5448.00
+West Vancouver,Eagle Harbour Montessori School P.A.C.,PAC,DPAC and PAC,Parent Advisory Councils,1848.00
